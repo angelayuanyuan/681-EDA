@@ -1,0 +1,78 @@
+  
+              COOLING DEGREE DAY DATA WEEKLY SUMMARY
+     POPULATION-WEIGHTED STATE,REGIONAL,AND NATIONAL AVERAGES
+              CLIMATE PREDICTION CENTER-NCEP-NWS-NOAA
+  
+          LAST DATE OF DATA COLLECTION PERIOD IS OCT 18, 2008
+          ACCUMULATIONS ARE FROM JAN  1, 2008 TO OCT 18, 2008
+           -999 = NORMAL LESS THAN 100 OR RATIO INCALCULABLE
+  
+   STATE         WEEK  WEEK WEEK    CUM   CUM   CUM   CUM   CUM
+                 TOTAL DEV  DEV     TOTAL DEV   DEV   DEV   DEV
+                       FROM FROM          FROM  FROM  FROM  FROM
+                       NORM L YR          NORM  L YR  NORM  L YR
+                                                      PRCT  PRCT
+           2000 CDD normals implemented 1/1/2003 
+ ALABAMA            28   10   -2    1956   127  -324     7   -14
+ ALASKA              0    0    0       6    -7    -7  -999  -999
+ ARIZONA            24  -17   -1    2666  -127  -280    -5   -10
+ ARKANSAS           22   10   13    1706   -42  -341    -2   -17
+ CALIFORNIA         13    1   13    1106   220   198    25    22
+ COLORADO            0    0    0     421   148   -91    54   -18
+ CONNECTICUT         0   -1    0     643    76   -38    13    -6
+ DELAWARE            8    4    5    1200   144  -138    14   -10
+ DISTRCT COLUMBIA   26   21    8    1696   173  -101    11    -6
+ FLORIDA            84   13   -3    3176   133   -24     4    -1
+ GEORGIA            19    5    5    1749    78  -199     5   -10
+ HAWAII             96   -4   -8    3753   269    -8     8     0
+ IDAHO               0    0    0     503    47  -175    10   -26
+ ILLINOIS            6    3    6     770  -103  -304   -12   -28
+ INDIANA             7    4    5     817   -76  -365    -9   -31
+ IOWA                2    0    2     715  -121  -297   -14   -29
+ KANSAS              3   -3    3    1187  -250  -307   -17   -21
+ KENTUCKY           15   10    6    1245    75  -388     6   -24
+ LOUISIANA          58   24    3    2491    17  -136     1    -5
+ MAINE               0    0    0     205   -23   -16   -10    -7
+ MARYLAND            8    5    5    1099    76  -235     7   -18
+ MASSACHUSETTS       0    0    0     508    56  -102    12   -17
+ MICHIGAN            0   -1    0     437  -130  -199   -23   -31
+ MINNESOTA           0    0    0     438   -44  -211    -9   -33
+ MISSISSIPPI        35   14   -2    2059    22  -291     1   -12
+ MISSOURI            6    1    6    1017  -229  -460   -18   -31
+ MONTANA             0    0    0     311    63  -169    25   -35
+ NEBRASKA            0   -2    0     853  -155  -303   -15   -26
+ NEVADA              7  -11    3    1878   -21  -105    -1    -5
+ NEW HAMPSHIRE       0    0    0     300    -4   -64    -1   -18
+ NEW JERSEY          2    1    1     873   107   -75    14    -8
+ NEW MEXICO          0   -1   -4     818   -75  -140    -8   -15
+ NEW YORK            0   -1    0     695    74  -100    12   -13
+ NORTH CAROLINA     10    2    4    1546   170  -185    12   -11
+ NORTH DAKOTA        0    0    0     388   -64  -158   -14   -29
+ OHIO                0   -2   -3     724   -14  -246    -2   -25
+ OKLAHOMA            9   -4   -1    1725  -137  -142    -7    -8
+ OREGON              0    0    0     364   127    50    54    16
+ PENNSYLVANIA        0   -2    0     690    29  -151     4   -18
+ RHODE ISLAND        0   -1    0     612   135   -75    28   -11
+ SOUTH CAROLINA     22    7    7    1874   103  -150     6    -7
+ SOUTH DAKOTA        0    0    0     620  -111  -282   -15   -31
+ TENNESSEE          16    8    4    1396    55  -340     4   -20
+ TEXAS              45    9  -13    2630    81    47     3     2
+ UTAH                0   -1    0     831   160  -238    24   -22
+ VERMONT             0    0    0     219   -57   -38   -21   -15
+ VIRGINIA            4    0    1    1146    99  -210     9   -15
+ WASHINGTON          0    0    0     254    56   -13    28    -5
+ WEST VIRGINIA       0   -3   -2     785    15  -254     2   -24
+ WISCONSIN           1    0    1     383  -118  -215   -24   -36
+ WYOMING             0    0    0     339    43  -175    15   -34
+   REGION
+ NEW ENGLAND         0    0    0     490    73   -70    18   -12
+ MIDDLE ATLANTIC     0   -1    0     731    75  -110    11   -13
+ E N CENTRAL         3    1    2     646   -62  -264    -9   -29
+ W N CENTRAL         2    0    2     796  -130  -319   -14   -29
+ SOUTH ATLANTIC     34    7    2    1970   129  -146     7    -7
+ E S CENTRAL        22   10    2    1617    87  -339     6   -17
+ W S CENTRAL        41   11   -7    2432    59   -33     2    -1
+ MOUNTAIN            8   -4    0    1303    75  -181     6   -12
+ PACIFIC            10    2   10     931   238   157    34    20
+ 
+ UNITED STATES      15    3    2    1252    70  -122     6    -9

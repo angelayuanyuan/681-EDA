@@ -1,0 +1,78 @@
+  
+              COOLING DEGREE DAY DATA WEEKLY SUMMARY
+     POPULATION-WEIGHTED STATE,REGIONAL,AND NATIONAL AVERAGES
+              CLIMATE PREDICTION CENTER-NCEP-NWS-NOAA
+  
+          LAST DATE OF DATA COLLECTION PERIOD IS JAN 18, 2014
+          ACCUMULATIONS ARE FROM JAN  1, 2014 TO JAN 18, 2014
+           -999 = NORMAL LESS THAN 100 OR RATIO INCALCULABLE
+  
+   STATE         WEEK  WEEK WEEK    CUM   CUM   CUM   CUM   CUM
+                 TOTAL DEV  DEV     TOTAL DEV   DEV   DEV   DEV
+                       FROM FROM          FROM  FROM  FROM  FROM
+                       NORM L YR          NORM  L YR  NORM  L YR
+                                                      PRCT  PRCT
+           2000 CDD normals implemented 1/1/2003 
+ ALABAMA             0   -3   -7       0    -7    -8  -999  -999
+ ALASKA              0    0    0       0     0     0  -999  -999
+ ARIZONA             0    0    0       0     0     0  -999  -999
+ ARKANSAS            0    0    0       0     0     0  -999  -999
+ CALIFORNIA          0   -1    0       0    -1     0  -999  -999
+ COLORADO            0    0    0       0     0     0  -999  -999
+ CONNECTICUT         0    0    0       0     0     0  -999  -999
+ DELAWARE            0    0    0       0     0     0  -999  -999
+ DISTRCT COLUMBIA    0    0    0       0     0     0  -999  -999
+ FLORIDA            11  -11  -25      45   -11   -45  -999  -999
+ GEORGIA             0   -3   -1       0    -6    -1  -999  -999
+ HAWAII             59    6    8     145     6     3     4     2
+ IDAHO               0    0    0       0     0     0  -999  -999
+ ILLINOIS            0    0    0       0     0     0  -999  -999
+ INDIANA             0    0    0       0     0     0  -999  -999
+ IOWA                0    0    0       0     0     0  -999  -999
+ KANSAS              0    0    0       0     0     0  -999  -999
+ KENTUCKY            0    0    0       0     0     0  -999  -999
+ LOUISIANA           0   -7  -10       2   -13   -15  -999  -999
+ MAINE               0    0    0       0     0     0  -999  -999
+ MARYLAND            0    0    0       0     0     0  -999  -999
+ MASSACHUSETTS       0    0    0       0     0     0  -999  -999
+ MICHIGAN            0    0    0       0     0     0  -999  -999
+ MINNESOTA           0    0    0       0     0     0  -999  -999
+ MISSISSIPPI         0   -3   -7       0    -7    -7  -999  -999
+ MISSOURI            0    0    0       0     0     0  -999  -999
+ MONTANA             0    0    0       0     0     0  -999  -999
+ NEBRASKA            0    0    0       0     0     0  -999  -999
+ NEVADA              0    0    0       0     0     0  -999  -999
+ NEW HAMPSHIRE       0    0    0       0     0     0  -999  -999
+ NEW JERSEY          0    0    0       0     0     0  -999  -999
+ NEW MEXICO          0    0    0       0     0     0  -999  -999
+ NEW YORK            0    0    0       0     0     0  -999  -999
+ NORTH CAROLINA      0   -1    0       0    -2     0  -999  -999
+ NORTH DAKOTA        0    0    0       0     0     0  -999  -999
+ OHIO                0    0    0       0     0     0  -999  -999
+ OKLAHOMA            0    0    0       0     0     0  -999  -999
+ OREGON              0    0    0       0     0     0  -999  -999
+ PENNSYLVANIA        0    0    0       0     0     0  -999  -999
+ RHODE ISLAND        0    0    0       0     0     0  -999  -999
+ SOUTH CAROLINA      0   -2    0       0    -5     0  -999  -999
+ SOUTH DAKOTA        0    0    0       0     0     0  -999  -999
+ TENNESSEE           0    0    0       0    -1     0  -999  -999
+ TEXAS               0   -4   -1       1    -7     0  -999  -999
+ UTAH                0    0    0       0     0     0  -999  -999
+ VERMONT             0    0    0       0     0     0  -999  -999
+ VIRGINIA            0    0    0       0     0     0  -999  -999
+ WASHINGTON          0    0    0       0     0     0  -999  -999
+ WEST VIRGINIA       0    0    0       0     0     0  -999  -999
+ WISCONSIN           0    0    0       0     0     0  -999  -999
+ WYOMING             0    0    0       0     0     0  -999  -999
+   REGION
+ NEW ENGLAND         0    0    0       0     0     0  -999  -999
+ MIDDLE ATLANTIC     0    0    0       0     0     0  -999  -999
+ E N CENTRAL         0    0    0       0     0     0  -999  -999
+ W N CENTRAL         0    0    0       0     0     0  -999  -999
+ SOUTH ATLANTIC      3   -5   -8      14    -6   -14  -999  -999
+ E S CENTRAL         0   -2   -3       0    -5    -3  -999  -999
+ W S CENTRAL         0   -3   -2       1    -7    -2  -999  -999
+ MOUNTAIN            0    0    0       0     0     0  -999  -999
+ PACIFIC             0   -1    0       0    -1     0  -999  -999
+ 
+ UNITED STATES       1   -1   -2       3    -2    -3  -999  -999
